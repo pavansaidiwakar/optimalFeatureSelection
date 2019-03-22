@@ -21,3 +21,11 @@ Genetic Algorithms (GA) can be used to alleviate this problem, b
 searching the entire feature set, for those features that are not only essential but improve
 performance as well. In this project, we explore the approaches to use GA to select features and
 pass the reduced feature subset to Decision Tree Classifier for improved classification rate.
+
+
+
+
+Running the file:
+ python filename.py datasetpath numberOfInitialPop numberOfGenerations numberOfpartitions
+pavan@pavansaidiwakar:~/Desktop/optimalFeatureSelection$ python latestOne.py datasets/movement_libras.csv 100 3 6
+
