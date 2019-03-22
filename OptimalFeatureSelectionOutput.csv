@@ -1,0 +1,4 @@
+Dataset,Feautres before GA,Features after Ga,Accuracy for directly passing dataset to the classifer,accuracy after GA,Majority Voting classifer,Number of blocks,Time taken in sec when entire dataset is passed ,Time for GA,Time for Majority voting classifier
+datasets/movement_libras.csv,90,43,0.6877777777777777,0.7622222222222224,0.7533333333333335,6,0.22405529022216797,38.68769669532776,39.49415445327759
+datasets/movement_libras.csv,90,40,0.6877777777777776,0.7277777777777777,0.7666666666666668,6,0.21771836280822754,38.560126066207886,39.1476035118103
+datasets/movement_libras.csv,90,46,0.6777777777777777,0.7500000000000002,0.7355555555555555,6,0.24727225303649902,45.58525848388672,46.336942195892334
